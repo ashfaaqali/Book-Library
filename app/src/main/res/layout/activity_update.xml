@@ -52,4 +52,15 @@
         android:layout_marginEnd="100dp"
         android:layout_marginTop="30dp"
         android:padding="10dp"/>
+
+    <Button
+        android:id="@+id/delete_button"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_below="@id/update_button"
+        android:layout_marginTop="15dp"
+        app:backgroundTint="#CD0000"
+        android:background="@drawable/delete"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"/>
 </RelativeLayout>
