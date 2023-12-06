@@ -2,6 +2,10 @@
 
 The Book Library Android App is a simple application that allows users to add, view, update, and delete books in their personal library. Users can enter the book title, author, and number of pages, and the data will be stored using SQLite for offline access. The app also includes a RecyclerView to display the list of books with the ability to update and delete individual entries.
 
+## Screenshots
+
+<img src="app/mmp1.png" alt="Screen 1" width="200" style="margin-right: 20"/> <img src="app/mmp2.png" alt="Screen 1" width="200"/> <img src="app/mmp3.png" alt="Screen 1" width="200"/> 
+
 ## Features
 
 - Add new books to your library with title, author, and number of pages.
